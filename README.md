@@ -45,3 +45,6 @@ if __name__ == '__main__':
 # Caveats
 
 Wiringpi is deprecated (http://wiringpi.com/wiringpi-deprecated).
+
+# License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F10git%2Fpy1101.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F10git%2Fpy1101?ref=badge_large)
