@@ -16,7 +16,7 @@ The CC1101 module is described here: http://www.elechouse.com/elechouse/images/p
 
 # How to install the library?
 
-Before everything else, you need to be sure that th SPI interface is enabled on your Raspberry.
+Before everything else, you need to be sure that the SPI interface is enabled on your Raspberry.
 
 Then, you install wiringpi (http://wiringpi.com). There is already a Python package for that:
 ```
